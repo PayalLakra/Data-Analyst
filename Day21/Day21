@@ -1,0 +1,23 @@
+This folder contains my `Day 21` practice from the Complete `Data Analyst Bootcamp` from `Udemy`.
+
+Today, We'll start with Power Query Editor in Power BI --
+
+1. Data Types in PQE
+
+2. Data Profiling
+    - Column Distribution
+    - Column Quality = It tells us about error and empty values.
+    - Column Profile
+
+3. Column Distribution = It shows distinct and unique values.(Used to get to know about Primary key)
+
+4. Appending Queries
+
+5. Merge Inner Join = Only Matching rows from both the tables
+6. Left Outer Join = Left + matching of right
+7. Right Outer Join =  right + matching of left
+8. Left & Right Anti Join = only in left/right table
+9. Full Outer Join = Inner join + left anti + right anti
+10. Group by
+11. Pivot, Unpivot, Transpose
+12. Add/Transform Columns
