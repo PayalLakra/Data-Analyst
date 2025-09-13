@@ -21,3 +21,8 @@ Today, We'll start with Data Visualization using Power BI --
 Open Power BI Desktop application -> Click on Blank Report -> Get Data -> Select your excel file -> Load data.
 
 Under Visualization Pane -> Select your chart -> apply filters(as per needs) -> Build Visual & Format visual.
+
+To learn:
+1. Format Painter
+2. Dripp Up/ Drill Down
+3. Views - Table View/ Report View
