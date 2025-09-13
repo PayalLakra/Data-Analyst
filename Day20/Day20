@@ -1,0 +1,23 @@
+This folder contains my `Day 20` practice from the Complete `Data Analyst Bootcamp` from `Udemy`.
+
+Today, We'll start with Data Visualization using Power BI --
+
+1. Creating a Bar Chart
+2. Creating a Column Chart
+3. Creating a Pie & Donut Chart
+4. Creating a Clustered Column & Bar Chart
+5. Creating a Line & Area Chart
+6. Creating a Ribbon Chart
+7. Creating a Line & Stacked Chart
+8. Creating a Line & Clustered Chart
+9. Creating a Scattered Chart
+10. Creating a Bubble map visual Chart
+11. Creating a Funnel Chart
+12. Creating a Table & Matrix Visual
+13. Formatting a Table & Matrix Visual
+14. Creating a Gauge Chart & KPI Visual
+15. Creating a AI Visual
+
+Open Power BI Desktop application -> Click on Blank Report -> Get Data -> Select your excel file -> Load data.
+
+Under Visualization Pane -> Select your chart -> apply filters(as per needs) -> Build Visual & Format visual.
