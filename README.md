@@ -29,9 +29,9 @@ Here, I’ll be documenting everything I learn, sharing notes, projects, and pra
 ## 🎯 Goal
 
 By the end of this journey, we’ll:
-✔️ Have a strong foundation in **Data Analysis**
-✔️ Be comfortable with **Python, SQL, and Power BI**
-✔️ Build a **portfolio of real-world projects**
-✔️ Be ready to step into a **Data Analyst role**
+* ✔️ Have a strong foundation in **Data Analysis**
+* ✔️ Be comfortable with **Python, SQL, and Power BI**
+* ✔️ Build a **portfolio of real-world projects**
+* ✔️ Be ready to step into a **Data Analyst role**
 
 💬 *Let’s learn, share, and grow together in this data-driven journey!*
