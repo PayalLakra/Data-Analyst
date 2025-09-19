@@ -1,0 +1,43 @@
+This folder contains my `Day 27` practice from the Complete `Data Analyst Bootcamp` from `Udemy`.
+
+Today, We'll start with Excel --
+
+1. To remove duplicates:
+    - Data tab -> Data tools ribbon -> remove duplicates -> hit ok
+    - Home tab -> style ribbon -> conditional formatting -> highlight cell -> duplicates
+
+2. To create new column for month & year
+    - YEAR(cell_number)
+    - MONTH(cell_number)
+
+3. Profit margin = profit/sales
+    - use decrease decimal in Home tab -> number ribbon
+
+4. To check for missing values
+    - Select data -> conditional formatting -> apply new rule -> ISBLANK(range) -> fill colour.
+    - Apply filter(ctrl+shift+L), check fro missing values
+
+5. Standardize customer names (remove extra spaces, capitalization).
+    - UPPER()
+    - LOWER()
+    - TRIM()
+    - PROPER(TRIM())
+
+6. Functions
+    - SUM
+    - AVERAGE
+    - PRODUCT
+    - SUMPRODUCT
+    - ROUNDUP
+    - YEAR
+    - MONTH
+    - VLOOKUP
+    - HLOOKUP
+    - IF
+    - IFS 
+    - AND 
+
+7. Pivot Tables
+    - Create table
+    - Select rows and columns
+    - sort according to the question(2 options- eiter sort the table itself or sort the values and show all.)
