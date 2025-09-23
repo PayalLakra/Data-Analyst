@@ -18,15 +18,6 @@ This is all about learning PYTHON.
 5: Operators in Python
     Go to -- Python/1.3-operators.ipynb
 
-
-
-
-
-
-
-
-
-
 6: Assignment:
     Go to -- Python/assignment_solution
 
@@ -39,22 +30,42 @@ This is all about learning PYTHON.
 9: Assignment:
     Go to -- Python/assignment_solutions
 
-10:
-11:
-12:
-13:
-14:
-15:
-16:
-17:
-18:
-19:
-20:
+10: List & List Comprehension
+    Go to: Python\3.1-Lists.ipynb
+
+11: List Assignment
+    Go to: Python\list_assignment_solution
+
+12: Tuples
+    Go to: 
+
+13: Tuples Assignment
+    Go to: Python\tuple_assignment_solution
+
+14: Set
+
+15: Set Assignment
+
+16: Dictionary
+
+17: Dictionary Assignment
+
+18: Use case of List
+    Go to: Python\3.1.1-ListExamples.ipynb
+
+19: Functions
+    Go to: Python\4.1-functions.ipynb
+
+20: Function Example
+    Go to: Python\4.2-examplesfunctions.ipynb
+
 21:
 22:
 23:
 24:
-25:
+25: Import Modules & Packages
+    Go to: Python\5.1-import.ipynb
+
 26:
 27:
 28:
