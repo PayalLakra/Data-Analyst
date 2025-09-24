@@ -43,12 +43,16 @@ This is all about learning PYTHON.
     Go to: Python\tuple_assignment_solution
 
 14: Set
+    Go to: Python\3.3-Sets.ipynb
 
 15: Set Assignment
+    Go to: Python\set_assignments_solution
 
 16: Dictionary
+    Go to: Python\3.4-Dictionaries.ipynb
 
 17: Dictionary Assignment
+    Go to: Python\dictionaries_assignment_solution.ipynb
 
 18: Use case of List
     Go to: Python\3.1.1-ListExamples.ipynb
@@ -66,7 +70,10 @@ This is all about learning PYTHON.
 25: Import Modules & Packages
     Go to: Python\5.1-import.ipynb
 
-26:
+26: Standard library overview
+    Go to: Python\5.2-Standardlibrary.ipynb
+
 27:
 28:
-29:
+29: Exception Handling
+    Go to: Python\7.1-exception.ipynb
